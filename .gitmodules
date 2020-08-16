@@ -1,3 +1,3 @@
-[submodule "app\\renderer\\src\\main"]
-	path = app\\renderer\\src\\main
+[submodule "main"]
+	path = app/renderer/src/main
 	url = https://github.com/mobilesite/remote-control-renderer-main.git
